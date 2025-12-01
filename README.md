@@ -54,10 +54,10 @@ I am a **Computer Science undergraduate at the University of São Paulo (USP)**,
 <div align="center">
 
 ### 🔥 General Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cfclemos&show_icons=true&theme=tokyonight&hide_border=true)
+![https://github-readme-stats-zeta-five.vercel.app/api?username=cfclemos](https://github-readme-stats-zeta-five.vercel.app/api?username=cfclemos)
 
 ### 💡 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfclemos&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cfclemos)
 
 </div>
 
