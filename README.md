@@ -46,8 +46,6 @@ I am a **Computer Science undergraduate at the University of São Paulo (USP)**,
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4A9BB3?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Altair](https://img.shields.io/badge/Altair-1F77B4?style=for-the-badge&logo=python&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-FF7F0E?style=for-the-badge&logo=python&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
 
 
